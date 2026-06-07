@@ -1,0 +1,14 @@
+Data Scientist
+
+Required Skills:
+Python
+Machine Learning
+SQL
+Deep Learning
+NLP
+Scikit-learn
+AWS
+Docker
+
+Responsibilities:
+Build predictive models, analyze datasets, deploy machine learning solutions, and work with cloud platforms.

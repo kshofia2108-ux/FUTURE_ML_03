@@ -1,0 +1,12 @@
+Michael Lee
+
+Skills:
+Python
+Machine Learning
+Deep Learning
+AWS
+Docker
+TensorFlow
+
+Projects:
+Developed image classification systems using deep learning.

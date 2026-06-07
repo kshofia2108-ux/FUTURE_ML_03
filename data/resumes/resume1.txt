@@ -1,0 +1,11 @@
+John Doe
+
+Skills:
+Python
+Machine Learning
+SQL
+Scikit-learn
+NLP
+
+Projects:
+Built sentiment analysis models using Python and NLP.

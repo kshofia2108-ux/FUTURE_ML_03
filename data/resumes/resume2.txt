@@ -1,0 +1,10 @@
+Jane Smith
+
+Skills:
+Java
+Excel
+Power BI
+SQL
+
+Projects:
+Created business dashboards and reporting systems.
