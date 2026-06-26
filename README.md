@@ -18,6 +18,33 @@ Develop an NLP-based resume screening system that automatically ranks candidates
 - Scikit-learn
 - Matplotlib
 
+## Workflow
+
+Resume Upload
+        ↓
+Text Extraction
+        ↓
+Data Cleaning
+        ↓
+Feature Extraction
+        ↓
+ML Model
+        ↓
+Candidate Ranking
+
+## How to Run
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Run:
+
+python app.py
+
+## Author
+SHOFIA K
+
 ## Results
 
 | Candidate | Similarity Score | Skill Score |
