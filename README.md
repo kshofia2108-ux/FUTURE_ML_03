@@ -30,3 +30,6 @@ Develop an NLP-based resume screening system that automatically ranks candidates
 - Candidate ranking CSV
 - Similarity score visualization
 - Skill gap analysis
+
+## Author
+SHOFIA
