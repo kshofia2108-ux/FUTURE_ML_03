@@ -1,4 +1,4 @@
 candidate,similarity_score,skill_score,skills_found,missing_skills
-resume3.txt,39.57,16,"['tensorflow', 'docker', 'deep learning', 'python', 'aws', 'machine learning']","['nlp', 'sql']"
-resume1.txt,34.64,14,"['nlp', 'sql', 'machine learning', 'python']","['aws', 'docker', 'deep learning']"
-resume2.txt,4.81,4,"['excel', 'java', 'sql', 'power bi']","['nlp', 'docker', 'deep learning', 'python', 'aws', 'machine learning']"
+resume3.txt,39.57,25,"tensorflow, machine learning, docker, aws, deep learning, python","sql, nlp"
+resume1.txt,34.64,18,"sql, nlp, machine learning, python","aws, deep learning, docker"
+resume2.txt,4.81,12,"java, sql, excel, power bi","nlp, machine learning, docker, aws, deep learning, python"
